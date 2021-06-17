@@ -2,3 +2,5 @@ Monkey Teacher's Git command ==
 
 second modification ...
 
+add image slide function
+
